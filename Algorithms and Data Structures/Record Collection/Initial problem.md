@@ -20,4 +20,6 @@ Note: A copy of the collection object is used for the tests.
 First of all I recommend you read how JSON works seeing this https://www.json.org/json-en.html follow the diagram after read the instructions.
 Then read the instructions and see what tests will take to pass through this challange, this can help too.
 If this wouldn't help you, I recommend you do the previous basic JavaScript from freecodecamp.
-Don't need to think hard, it's an easy instructions and easy code do to.
+Don't need to think hard, it's an easy instructions and easy code to do.
+
+Feel free to send any help.
