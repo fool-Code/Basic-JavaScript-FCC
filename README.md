@@ -1,2 +1,2 @@
-# Basic-JavaScript-FCC
-Just some code I'm learning from FCC and hopefully help someone.
+# Some_FCC_Projects
+Just some projects or problems I'm learning and solving on FreeCodeCamp
